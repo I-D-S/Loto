@@ -14,15 +14,13 @@
 # Тесты
 ## Тест 1 
 ___
-![]()\
+![](https://github.com/I-D-S/Loto/blob/main/test/7.png)\
 Рисунок 1 N = 7
 ## Тест 2 
 ___
-![]()\
+![](https://github.com/I-D-S/Loto/blob/main/test/13.png)\
 Рисунок 2 N = 13
 ## Тест 3 
 ___
-![]()\
+![](https://github.com/I-D-S/Loto/blob/main/test/25.png)\
 Рисунок 3 N = 25
-
-
